@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is ines
 #### I am  Junior Data Engineer 
-![I am  Junior Data Engineer ](<a href='https://www.linkpicture.com/view.php?img=LPic619d5ff3ed71d944876147'><img src='https://www.linkpicture.com/q/106847752-1614693714197-raya_Cropped.jpg' type='image'></a>)
+<a href='https://www.linkpicture.com/view.php?img=LPic619d5ff3ed71d944876147'><img src='https://www.linkpicture.com/q/106847752-1614693714197-raya_Cropped.jpg' type='image'></a>
 
 
 Skills: Python / Spark / Machine Learning /ETL/Apache Kafka
