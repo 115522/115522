@@ -3,7 +3,7 @@
 <a href='https://www.linkpicture.com/view.php?img=LPic619d5ff3ed71d944876147'><img src='https://www.linkpicture.com/q/106847752-1614693714197-raya_Cropped.jpg' type='image'></a>
 
 
-Skills: Python / Spark / Machine Learning /ETL/Apache Kafka
+Skills: Python / Spark /SQL/ Machine Learning /ETL/Apache Kafka / computer vision 
 
 - 🔭 I’m currently working on Apache Kafka and spark streaming 
 - 🌱 I’m currently learning fuzzy logic 
