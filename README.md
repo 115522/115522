@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is INES REBHI
 #### I am  a Data Manager
-###<a href='https://www.linkpicture.com/view.php?img=LPic619d5ff3ed71d944876147'><img src='https://www.linkpicture.com/q/106847752-1614693714197-raya_Cropped.jpg' type='image'></a>###
+
 
 Skills : Data Analysis / Data Visualisation
 
