@@ -2,11 +2,13 @@
 #### I am  a Data Manager
 
 
-Skills : Data Analysis / Data Visualisation
+Skills : Data Analysis / Data Visualisation / Data Modeling / Big Data / Entry Data / Data mining 
 
-Skills: Python / Spark /SQL/ Machine Learning /ETL/Apache Kafka / computer vision 
+programming languages: Python / PySpark /SQL/ Javascript
 
-- 🔭 I’m currently working on Apache Kafka and spark streaming 
+Tools : Tableau / SPSS Modeler / spreadsheet 
+
+- 🔭 I’m currently working on Tableau
 - 🌱 I’m currently learning fuzzy logic 
 
 
