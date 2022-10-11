@@ -4,8 +4,7 @@
 
 Skills : Data Analysis / Data Visualisation / Data Modeling / Big Data / Entry Data / Data mining 
 
-programming languages: Python / PySpark /SQL/ Javascript
-
+programming languages: Python /Flask / PySpark /SQL
 Tools : Tableau / SPSS Modeler / spreadsheet 
 
 - 🔭 I’m currently working on Tableau
